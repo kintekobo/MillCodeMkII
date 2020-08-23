@@ -1,5 +1,8 @@
 # `power-feed` 
 
+NOTE - The zip file called millcode.zip contains a directory with all of the files needed. Just expand into a directory called millcode and open the milcode.ino file.
+
+
 **Single-axis Arduino-based milling machine power feed controller.**
 
 _Ported from Chris Mower's original millcode project (https://github.com/kintekobo/millcode). Pin-compatible with the original._ 
